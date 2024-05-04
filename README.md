@@ -6,7 +6,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 New update :
 ```Version 2.2```
 
-### Instalation on Linux (deb)
+### Instalation on Linux (Debian)
 ```
 sudo apt-get install git
 sudo apt-get install python3
@@ -45,7 +45,7 @@ on this menu you can search for information from the target phone number
 Display on the menu ```Username Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
-on this menu you can search for information from the target username on social media
+on this menu you can search for information from the target username on social media websites
 
 <details>
 <summary>:zap: Author :</summary>
