@@ -37,6 +37,7 @@ def is_option(func):
 
 
 # FUNCTIONS FOR MENU
+print:("You are targeting")
 @is_option
 def IP_Track():
     ip = input(f"{Wh}\n Enter IP target : {Gr}")  # INPUT IP ADDRESS
